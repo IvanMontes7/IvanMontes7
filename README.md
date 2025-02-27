@@ -4,15 +4,6 @@
 
 <!--
 **IvanMontes7/IvanMontes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 🚀 Tecnologías y Herramientas  
-💻 **Lenguajes:** Python, SQL  
-📊 **Análisis de Datos:** Pandas, NumPy, Seaborn, Matplotlib, Tableau Public  
-⚙️ **Automatización:** PLCs, Sistemas HVAC  
-📐 **Diseño y Modelado:** AutoCAD, Revit  
-🔗 **Bases de Datos:** PostgreSQL
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Tecnologías y Herramientas  
+💻 **Lenguajes:** Python, SQL  
+📊 **Análisis de Datos:** Pandas, NumPy, Seaborn, Matplotlib, Tableau Public  
+⚙️ **Automatización:** PLCs, Sistemas HVAC  
+📐 **Diseño y Modelado:** AutoCAD, Revit  
+🔗 **Bases de Datos:** PostgreSQL
+Here are some ideas to get you started:
+
