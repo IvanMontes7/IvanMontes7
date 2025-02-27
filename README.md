@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ivan Montes  
+🔧 Ingeniero en Control y Automatización | Especialista en Sistemas HVAC y Análisis de Datos  
+🚀 Apasionado por la automatización, la optimización de procesos y el análisis de datos para la toma de decisiones.  
 
 <!--
 **IvanMontes7/IvanMontes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
