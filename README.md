@@ -4,6 +4,8 @@
 
 <!--
 **IvanMontes7/IvanMontes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,5 +22,7 @@
 ⚙️ **Automatización:** PLCs, Sistemas HVAC  
 📐 **Diseño y Modelado:** AutoCAD, Revit  
 🔗 **Bases de Datos:** PostgreSQL
-Here are some ideas to get you started:
+
+## 📊 Estadísticas  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ivanmontes7&show_icons=true&theme=dark)  
 
