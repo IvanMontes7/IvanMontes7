@@ -1,7 +1,3 @@
-# 👋 ¡Hola! Soy Ivan Montes  
-🔧 Ingeniero en Control y Automatización | Especialista en Sistemas HVAC y Análisis de Datos  
-🚀 Apasionado por la automatización, la optimización de procesos y el análisis de datos para la toma de decisiones.  
-
 <!--
 **IvanMontes7/IvanMontes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,12 +12,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 Tecnologías y Herramientas  
-💻 **Lenguajes:** Python, SQL  
-📊 **Análisis de Datos:** Pandas, NumPy, Seaborn, Matplotlib, Tableau Public  
-⚙️ **Automatización:** PLCs, Sistemas HVAC  
-📐 **Diseño y Modelado:** AutoCAD, Revit  
-🔗 **Bases de Datos:** PostgreSQL
+# 👋 Hola, soy Ivan Montes
+
+Data Engineer Jr | Business Intelligence | Ingeniero en Control y Automatización
+
+🔹 Desarrollo pipelines ETL y soluciones de datos con Python y PostgreSQL.
+
+🔹 Diseño modelos analíticos y Data Warehouses para transformar datos en información útil para el negocio.
+
+🔹 Construyo dashboards ejecutivos y operativos en Power BI orientados a la toma de decisiones.
+
+### Tecnologías
+
+Python • SQL • PostgreSQL • ETL • Data Warehouse • Power BI • DAX
 
 ## 📊 Estadísticas  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ivanmontes7&show_icons=true&theme=dark)  
@@ -29,4 +32,5 @@ Here are some ideas to get you started:
 ## 📫 Conéctate conmigo  
 💼 [LinkedIn](https://linkedin.com/in/ivanmontes-ing)  
 📧 ivanmontes.3389@gmail.com
+📍 Ciudad de México
 
