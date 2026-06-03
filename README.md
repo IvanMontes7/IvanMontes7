@@ -26,9 +26,6 @@ Data Engineer Jr | Business Intelligence | Ingeniero en Control y Automatizació
 
 Python • SQL • PostgreSQL • ETL • Data Warehouse • Power BI • DAX
 
-## 📊 Estadísticas  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ivanmontes7&show_icons=true&theme=dark)  
-
 ## 📫 Conéctate conmigo  
 💼 [LinkedIn](https://linkedin.com/in/ivanmontes-ing)  
 📧 ivanmontes.3389@gmail.com
