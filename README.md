@@ -18,6 +18,8 @@ Data Engineer Jr | Business Intelligence | Ingeniero en Control y Automatizació
 
 Ingeniero en Control y Automatización con experiencia en optimización de procesos y análisis de información para la toma de decisiones. Actualmente enfocado en Ingeniería de Datos y Business Intelligence, desarrollando soluciones end-to-end que integran ETL, Data Warehousing, modelado analítico y visualización de datos.
 
+Mi objetivo es construir soluciones escalables que permitan transformar datos en información confiable para la toma de decisiones, integrando buenas prácticas de automatización, calidad de datos y tecnologías cloud.
+
 #### Tecnologías
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -50,19 +52,21 @@ Ingeniero en Control y Automatización con experiencia en optimización de proce
 
 Pipeline ETL → PostgreSQL → Modelo Estrella → Power BI
 
+Resultado final de una arquitectura de datos end-to-end que integra extracción mediante APIs, procesos ETL en Python, modelado dimensional en PostgreSQL y visualización en Power BI. El dashboard facilita el análisis financiero y operativo mediante métricas confiables y centralizadas.
+
+<p align="center">
+  <img src="dashboard_ejecutivo_financiero.jpg" width="900">
+</p>
+
 Tecnologías:
 `Python` • `SQL` • `PostgreSQL` • `DAX` • `ETL` • `Business Intelligence`
-
 ---
 
-## 📫 Contacto
+#### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Montes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanmontes-ing)
 
 [![Email](https://img.shields.io/badge/Email-ivanmontes.3389%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanmontes.3389@gmail.com)
 
-## 📫 Conéctate conmigo  
-💼 [LinkedIn](https://linkedin.com/in/ivanmontes-ing)  
-📧 ivanmontes.3389@gmail.com
 📍 Ciudad de México
 
