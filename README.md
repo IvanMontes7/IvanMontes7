@@ -33,8 +33,7 @@ Ingeniero en Control y Automatización con experiencia en optimización de proce
 #### Actualmente me encuentro desarrollando una solución end-to-end para análisis financiero y operativo. El cual contiene las siguientes etapas      
 
 - Diseño y modelado de la base de datos para centralizar información financiera y operativa.
-- Automatización de la extracción de datos desde Google Sheets mediante APIs y Python.
-- Desarrollo de pipelines ETL para extracción, transformación y carga de datos.
+- Desarrollo de pipelines ETL para extracción, transformación y carga de datos con python.
 - Implementación de una capa RAW para garantizar trazabilidad y conservación de datos históricos.
 - Aplicación de reglas de negocio para limpieza, validación y estandarización de datos.
 - Construcción de un Data Warehouse en PostgreSQL.
