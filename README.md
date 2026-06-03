@@ -18,8 +18,6 @@ Data Engineer Jr | Business Intelligence | Ingeniero en Control y Automatizació
 
 Ingeniero en Control y Automatización con experiencia en optimización de procesos y análisis de información para la toma de decisiones. Actualmente enfocado en Ingeniería de Datos y Business Intelligence, desarrollando soluciones end-to-end que integran ETL, Data Warehousing, modelado analítico y visualización de datos.
 
-Mi objetivo es construir soluciones escalables que permitan transformar datos en información confiable para la toma de decisiones, integrando buenas prácticas de automatización, calidad de datos y tecnologías cloud.
-
 #### Tecnologías
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
